@@ -1,5 +1,7 @@
 # 李文桢的个人主页
 
+网站地址：<https://livandan.github.io/>
+
 中英文个人主页，使用 HTML、CSS 和 JavaScript 编写。无需安装依赖或编译，可以直接用 GitHub Pages 托管，也可以迁移到其他静态网站托管平台。
 
 ## 文件说明
@@ -51,7 +53,7 @@
 
 保存后等待 GitHub 完成发布。此后修改并提交 `main` 分支即可更新网站，无需手动上传构建产物。
 
-注意：GitHub Pages 网站会公开访问；免费账号通常需要使用公开仓库。本仓库迁移准备阶段先保持私有，公开发布前由所有者确认。
+本仓库及 GitHub Pages 网站已按所有者要求公开。后续提交到 `main` 分支的网页内容会公开发布。
 
 官方文档：[创建 GitHub Pages 网站](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)、[设置发布来源](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)。
 
